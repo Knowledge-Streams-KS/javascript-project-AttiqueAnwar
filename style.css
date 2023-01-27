@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(142, 153, 153);
+}
+.row{
+    background-color: yellow;
+    padding: 20px;
+    position: absolute;
+    top:25%;
+    left: 25%;
+    transform: translate(-5%,-5%);
+    margin-right:100px ;
+}
+.form-search{
+    display: flex;
+    padding: 50px 0px;
+ 
+}
+label{
+    font-size: 1.5rem;
+}
+
+.input-small{
+    width: 15rem;
+}
+.imageSize{
+    height: 100px;
+    width: 100px;
+}
